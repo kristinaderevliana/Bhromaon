@@ -1,0 +1,78 @@
+%font-aleo {
+    font-family: 'Aleo', serif;
+    font-weight: 300;
+}
+
+%block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+}
+
+%container {
+    width: 94.8%;
+    max-width: 1110px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+%btn {
+    width: 225px;
+    height: 60px;
+    background: linear-gradient(40deg, #496bfe 50%, #5474fd 50%);
+    outline: none;
+    font-family: 'Aleo', serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff;
+    transition: ease-in-out .3s;
+}
+
+%search {
+    background-color: #5474fd;
+    outline: none;
+    font-family: 'Aleo', serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    transition: ease-in-out .3s;
+}
+
+%flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+%article {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+%h2 {
+    font-family: 'Aleo', serif;
+    font-size: 36px;
+    line-height: 1.4;
+}
+
+%h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 0.9;
+    letter-spacing: 0.14em;
+}
+
+%h4 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    line-height: 1.3;
+}

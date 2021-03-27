@@ -1,0 +1,32 @@
+@media screen and (min-width: 1024px) and (max-width: 1250px) {
+
+    .menu-wrap {
+        display: none;
+      }
+
+    .how-it-works__inner {
+        position: relative;
+    }
+
+    .how-it-works .how-it-works__container .how-it-works__inner:after {
+        display: block;
+        content: ".................................";
+        width: 150px;
+        position: absolute;
+        transform: translate(-170px, 30px);
+        color: #838383;
+    }
+
+    .how-it-works .how-it-works__container .how-it-works__inner::before {
+        display: block;
+        content: ".................................";
+        width: 150px;
+        position: absolute;
+        transform: translate(170px, 30px);
+        color: #838383;
+    }
+
+    .testimonial__article {
+        padding: 40px 50px 40px 50px;
+    }
+}

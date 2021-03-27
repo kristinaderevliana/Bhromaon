@@ -1,0 +1,15 @@
+@media screen and (min-width: 480px) and (max-width: 767px) {
+
+    /* header */
+    .header {
+        width: 100vw;
+    }
+
+    .header__inner{
+        width: 90%;
+    }
+
+    .header__info {
+        height: 80%;
+    }
+}
