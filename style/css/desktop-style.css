@@ -13,7 +13,9 @@
         content: ".................................";
         width: 150px;
         position: absolute;
-        transform: translate(-170px, 30px);
+        -webkit-transform: translate(-170px, 30px);
+            -ms-transform: translate(-170px, 30px);
+                transform: translate(-170px, 30px);
         color: #838383;
     }
 
@@ -22,7 +24,9 @@
         content: ".................................";
         width: 150px;
         position: absolute;
-        transform: translate(170px, 30px);
+        -webkit-transform: translate(170px, 30px);
+            -ms-transform: translate(170px, 30px);
+                transform: translate(170px, 30px);
         color: #838383;
     }
 
