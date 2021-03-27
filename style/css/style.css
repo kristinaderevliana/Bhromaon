@@ -152,7 +152,7 @@ html {
 }
 
 .header {
-  background: url(/img/banner-bg.jpg) center no-repeat;
+  background: url(../../img/banner-bg.jpg) center no-repeat;
   background-size: cover;
   height: 100vh;
 }
@@ -273,7 +273,7 @@ html {
 }
 
 .choose-us {
-  background: url(/img/why_choose_us-bg.jpg) center no-repeat;
+  background: url(../../img/why_choose_us-bg.jpg) center no-repeat;
   background-size: cover;
   height: 100vh;
   position: relative;
@@ -402,7 +402,7 @@ html {
 }
 .how-it-works .how-it-works__container .how-it-works__inner:after {
   display: block;
-  content: url(/img/line.svg);
+  content: url(../../img/line.svg);
   height: auto;
   width: 62%;
   position: absolute;
@@ -427,7 +427,7 @@ html {
 
 .book-now__main-one {
   height: 700px;
-  background: url(/img/spain-bg-1.jpg) center no-repeat;
+  background: url(../../img/spain-bg-1.jpg) center no-repeat;
   background-size: cover;
 }
 .book-now__main-one .boork-now__container-one {
@@ -441,7 +441,7 @@ html {
 
 .book-now__main-two {
   height: 700px;
-  background: url(/img/spain-bg-2.jpg) center no-repeat;
+  background: url(../../img/spain-bg-2.jpg) center no-repeat;
   background-size: cover;
 }
 .book-now__main-two .boork-now__container-two {
@@ -473,7 +473,7 @@ html {
   line-height: 1;
 }
 .testimonial {
-  background: url(/img/comment-bg.jpg) center no-repeat;
+  background: url(../../img/comment-bg.jpg) center no-repeat;
   background-size: cover;
   height: 100vh;
 }
@@ -502,7 +502,7 @@ html {
   height: 100%;
   min-height: 285px;
   max-width: 40%;
-  background: url(/img/comment-img.jpg) center no-repeat;
+  background: url(../../img/comment-img.jpg) center no-repeat;
   background-size: cover;
 }
 
